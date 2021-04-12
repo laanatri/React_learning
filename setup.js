@@ -19,3 +19,13 @@
 // create-react-app name-of-the-app --script-version 1.1.5
 
 // lancer le server   npm start
+
+////
+//// Radium
+
+// npm install --save radium
+
+// StyleRoot for advance css like mediaQueries
+
+////
+//// Styled components
