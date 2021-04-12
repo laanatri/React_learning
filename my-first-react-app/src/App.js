@@ -141,9 +141,12 @@ class App extends Component {
           onClick={() => this.switchNameHandler('Maximilian !')}>
             Switch Name
           </button> */}
-          <StyledButton alt={this.state.showPersons} onClick={this.togglePersonsHandler}>
+          {/* <StyledButton alt={this.state.showPersons} onClick={this.togglePersonsHandler}>
             Toggle persons
-          </StyledButton>
+          </StyledButton> */}
+          <button className="button" onClick={this.togglePersonsHandler}>
+            Toggle persons
+          </button>
           {persons}
         </div>
       // </StyleRoot>
