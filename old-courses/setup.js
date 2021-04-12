@@ -28,4 +28,9 @@
 // StyleRoot for advance css like mediaQueries
 
 ////
-//// Styled components
+//// Styled components (voir le site)
+
+////
+//// modules
+// avoir un tree clean
+// npm run eject
